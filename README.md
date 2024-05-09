@@ -37,9 +37,6 @@ The Traffic Data Monitoring project is a Maven Aggregator project comprising the
 2. IoT Spark Processor
 3. IoT Spring Boot Dashboard
 
-## Acknowledgments
-- The developers and contributors of Apache Kafka, Spark, Cassandra, and Spring Boot for providing powerful tools and frameworks for real-time data processing and web application development.
-- Open-source community for their valuable contributions and support.
 ---
 
 The Traffic Data Monitoring project aims to provide real-time insights into traffic patterns using IoT data from connected vehicles. With its modular design and use of cutting-edge technologies, it offers a scalable and efficient solution for monitoring and analyzing traffic data.
