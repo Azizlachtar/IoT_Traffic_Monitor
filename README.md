@@ -21,10 +21,10 @@ The IoT Data Dashboard is a Spring Boot application responsible for retrieving d
 - JDK - 1.8
 - Maven - 3.3.9
 - ZooKeeper - 3.4.8
-- Kafka - 2.10-0.10.0.0
+- kafka- 2.11-2.4.1
 - Cassandra - 2.2.6
 - Spark - 1.6.2 Pre-built for Hadoop 2.6
-- Spring Boot - 1.3.5
+- Spring Boot - 2.3.2
 - jQuery.js
 - Bootstrap.js
 - Sockjs.js
